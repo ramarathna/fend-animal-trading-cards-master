@@ -1,0 +1,55 @@
+
+.title
+{
+	width: 300px;
+	padding:5px 7px;
+	margin:5px 5px;
+}
+
+.card
+{
+	  
+	box-shadow:7px 7px 2px #d6d3d3;
+	width:314px;
+	
+	padding: 7px 7px;
+	margin:7px 7px;
+	border: 0.1px solid #d6d3d3;
+}
+
+.image
+{
+	width: 300px;
+	padding:5px 7px 7px;
+
+}
+
+.fact{
+	font-style: italic;
+	
+}
+.facts{
+
+	width: 286px;
+	padding:0px 7px;
+	border: 0.1px solid #d6d3d3;
+	margin: 7px 7px;
+
+}
+
+.label
+{
+	font-weight: bold;
+
+}
+
+
+.pad_width{
+	width:275px;
+	padding:2px 7px;
+
+}
+#itemslist
+{	
+	list-style: none;
+}
